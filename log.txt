@@ -1,0 +1,10 @@
+bash: syntax error near unexpected token `('
+Date:   Tue Feb 12 17:11:47 2019 +0300
+
+    add .gitignore
+
+commit 5f47ac531617d957276c9c7f71442f056862ccbb
+Author: Yaroslav <meg_jas@mail.ru>
+Date:   Tue Feb 12 17:07:15 2019 +0300
+
+    add .gitignore
