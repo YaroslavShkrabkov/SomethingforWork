@@ -1,0 +1,1 @@
+var usersList = [{"login":"Вася","password":"12345"},{"login":"Денис","password":"12345"},{"login":"Света","password":"12345"}];
